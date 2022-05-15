@@ -2,7 +2,7 @@
 - 👀 I’m interested in plasma physics & fusion energy
 - 🌱 I’m currently learning BOUT++
 - 💞️ I’m looking to collaborate on anybody
-- 📫 How to reach me -
+- 📫 How to reach me - 6110210181@psu.ac.th
 
 <!---
 Thiti-acr/Thiti-acr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
